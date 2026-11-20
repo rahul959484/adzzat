@@ -1,0 +1,7 @@
+node_modules/
+.venv/
+Adzzat Assignment - Full-Stack Software Engineer.pdf
+dist/
+coverage/
+*.log
+.env

@@ -1,0 +1,1 @@
+{"name":"invoice-task-environment","private":true,"scripts":{"test:grader":"jest --runInBand --runTestsByPath /app/grader.test.js"},"devDependencies":{"jest":"^29.7.0"}}

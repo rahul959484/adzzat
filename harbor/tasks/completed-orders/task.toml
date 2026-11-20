@@ -1,0 +1,25 @@
+schema_version = "1.4"
+
+[task]
+name = "adzzat/completed-orders"
+version = "1.0.0"
+description = "Process an order list into valid completed orders, with newest orders first."
+keywords = ["javascript", "jest", "data-processing"]
+
+[metadata]
+difficulty = "easy"
+difficulty_explanation = "The task uses familiar array filtering and sorting, with a few input-validation cases."
+category = "software-engineering"
+tags = ["javascript", "data-processing", "testing"]
+
+[verifier]
+timeout_sec = 120.0
+
+[agent]
+timeout_sec = 600.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 1
+memory_mb = 2048
+storage_mb = 10240
