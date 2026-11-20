@@ -158,7 +158,7 @@ The following manual checks were performed:
 - Task 2 starter was rejected by the grader.
 - Task 2 edge cases and input immutability were checked.
 - Docker images and containers were tested against the reference solutions; details are recorded in `NOTES.md`.
-- No free agent or Harbor CLI was used. Jest and the Harbor-format Docker verifiers were run against included reference and deliberately incorrect implementations. Before submission, the applicant should personally walk through solving each task and record their own observations.
+- No free agent or Harbor CLI was used. The Jest graders were run against reference and deliberately incorrect implementations. Harbor-format Docker verifiers were run against the included reference solutions and unmodified starters. Before submission, the applicant should personally walk through solving each task and record their own observations.
 
 # AI Usage
 
